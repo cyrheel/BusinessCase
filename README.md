@@ -1,6 +1,6 @@
 # BusinessCase
 
-🇫🇷
+FR
 
 Problématique :
 
@@ -27,7 +27,7 @@ Le Challenge ?
 Effectuer l'analyse demandée, avec des visualisations explicatives, et proposer un conseil au client.
 
 
-🇬🇧
+EN
 
 Problem :
 
