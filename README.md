@@ -14,7 +14,8 @@ Chaque machine enregistre en effet chaque vente ou passage du technicien avec un
 
 Quelques compléments d'informations (tous les montants sont hors taxe pour ce buisness case) :
 
-Le déplacement d'un employé coûte 50 euros pour aller à la gare + 20 euros par machine. Les 4 machines sont dans la même gare.
+Le déplacement d'un employé coûte 50 euros pour aller à la gare + 20 euros par machine. 
+Les 4 machines sont dans la même gare.
 Le prix de vente des boissons est de : 1 euro le café ; 1,60 euros le soda ; 1,80 euros le nrj drink.
 Le coût de revient des boissons est de : 30 cts le café ; 60 cts le soda ; 80 cts le nrj drink.
 Chaque distributeur a une capacité maximale de : 280 doses de café ; 120 canettes de soda ; 60 bouteilles de nrj drink.
@@ -41,7 +42,8 @@ Each machine records each sale or visit of the technician with a timestamp.
 
 Some additional information (all amounts are exclusive of tax for this business case):
 
-Sending an employee costs 50 euros to go to the station + 20 euros per machine. The 4 machines are in the same station.
+Sending an employee costs 50 euros to go to the station + 20 euros per machine. 
+The 4 machines are in the same station.
 The selling price of the drinks is: 1 euro per coffee; 1.60 euros a soda; 1.80 euros the nrj drink.
 The cost of drinks is: 30 cents per coffee; 60 cts the soda; 80 cts the nrj drink.
 Each dispenser has a maximum capacity of: 280 doses of coffee; 120 cans of soda; 60 bottles of nrj drink.
