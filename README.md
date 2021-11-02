@@ -1,5 +1,10 @@
 # BusinessCase
 
+Solution : 
+
+https://colab.research.google.com/drive/1XzgHcsrSebzjrtK80dS6zn4nXBqvoWBs?usp=sharing
+
+
 FR
 
 Problématique :
