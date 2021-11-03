@@ -1,5 +1,0 @@
-Here is the link to the solution !
-It's a google colab page 
-
-
-https://colab.research.google.com/drive/1XzgHcsrSebzjrtK80dS6zn4nXBqvoWBs?usp=sharing
